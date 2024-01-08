@@ -1,20 +1,17 @@
-### Olá! Eu sou o Gabriel Luis de Santana!👋
+### ### Hello! My name is Gabriel and I'm 17 years old!👋🏻
 
-- 💻 Full-Stack Developer
-- 🌱 I'm studying HTML, CSS e JavaScript.
-- 📫 Contact me: gabrielluisdesantana0@gmail.com
- 
+![gabrieldsantana28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrieldsantana28&theme=highcontrast&hide_border=false)
+
+## Contact me
 <div> 
   <a href="https://instagram.com/gabrielldsantana_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielluisdesantana0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-luis-d-3a4094252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## My stats
 
-![gabrieldsantana28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrieldsantana28&theme=highcontrast&hide_border=false)
 
-## Technologies I use
+## My Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
