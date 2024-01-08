@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Gabriel Luis de Santana!👋
 
-- 💻 Desenvolvedor Web Full-Stack
-- 🌱 Estou estudando HTML, CSS e JavaScript.
-- 📫 Contate-me: gabrielluisdesantana0@gmail.com
+- 💻 Full-Stack Developer
+- 🌱 I'm studying HTML, CSS e JavaScript.
+- 📫 Contact me: gabrielluisdesantana0@gmail.com
  
 <div> 
   <a href="https://instagram.com/gabrielldsantana_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
