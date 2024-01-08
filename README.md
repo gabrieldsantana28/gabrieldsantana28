@@ -10,4 +10,6 @@
   <a href="https://www.linkedin.com/in/gabriel-luis-d-3a4094252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![gabrieldsantana28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrieldsantana28&theme=highcontrast&hide_border=true)
+## My stats
+
+![gabrieldsantana28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrieldsantana28&theme=highcontrast&hide_border=false)
