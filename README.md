@@ -1,5 +1,7 @@
-###                             Hello! My name is Gabriel and I'm 18 years old!👋🏻
-At the beginning of 2023 I had my first contact with this amazing universe and since ago I'm dedicating and learning more and more. I've already knowledge in some technologies like HTML, CSS, JavaScript, PHP, Java and SQL. And I"m always looking for new technologies to expand my repertoire.
+###                             Hello! My name is Gabriel and I'm 19 years old!👋🏻
+At the beginning of 2023, I had my first contact with the tech universe, and since then, I have been constantly evolving. Although I started with a broad technical foundation in Java, PHP, and SQL, I truly found my passion in the world of data.
+
+Today, I work as a Junior Data Analyst, where I transform complex databases into strategic insights. I am deeply committed to mastering the data lifecycle—from extraction to visualization—and I’m always looking for new technologies to expand my repertoire and solve real-world business challenges.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
@@ -15,8 +17,9 @@ At the beginning of 2023 I had my first contact with this amazing universe and s
 
 ## My Technologies
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+ ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![SQL](https://img.shields.io/badge/database-005EAA?style=for-the-badge&logo=databricks&logoColor=white)
