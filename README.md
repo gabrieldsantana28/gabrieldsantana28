@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-00995D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/gabrielldsantana_">
+  <a href="https://instagram.com/gabrielldsantana">
     <img src="https://img.shields.io/badge/Instagram-00A86B?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
