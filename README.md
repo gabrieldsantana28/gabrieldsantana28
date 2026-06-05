@@ -1,4 +1,54 @@
-# 👋 Hi, I'm Gabriel Santana
+<div align="center">
+
+# 💚 Gabriel Santana
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=00995D&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Engineering+Enthusiast;Software+Engineering+Student;Building+Data+Pipelines+and+Insights" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=gabrieldsantana28&label=Profile+Views&color=00995D&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/gabrieldsantana28?label=Followers&style=for-the-badge&color=00995D" />
+
+<img src="https://img.shields.io/github/stars/gabrieldsantana28?affiliations=OWNER&style=for-the-badge&color=00995D" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Transforming Data into Decisions
+
+💼 Junior Data Analyst
+
+🎓 Software Engineering Student
+
+📊 Power BI • SQL • Oracle • Python
+
+⚙️ ETL/ELT • Data Pipelines • Analytics
+
+🌎 Future Data Engineer
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+          ┌─────────────────────────────┐
+          │      DATA LIFECYCLE         │
+          └─────────────────────────────┘
+                      │
+                      ▼
+      Extract → Transform → Load → Analyze
+                      │
+                      ▼
+                 Business Value
+```
+
+</div>
 
 ### 🚀 Data Analyst | Data Engineering Enthusiast | Software Engineering Student
 
