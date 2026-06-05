@@ -51,58 +51,20 @@
 
 ---
 
-<h2 align="center">🧩 Technology Stack</h2>
-
 <div align="center">
 
-<h4>🐍 Data & Programming</h4>
-
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,figma" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
----
-
-<h4>⚙️ Data Engineering</h4>
-
-<img src="https://skillicons.dev/icons?i=py" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ETL%2FELT-017CEE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Pipelines-0052CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-
----
-
-<h4>📊 Analytics & BI</h4>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
----
-
-<h4>🗄️ Database Tools</h4>
-
-<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-
-<h4>☁️ Version Control & Tools</h4>
-
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://img.shields.io/badge/SQL-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square"/>
 
 </div>
-
-<hr/>
-
-
-2025 → Logistics Intern
-
-2025 → Junior Data Analyst
-
-2026 → Data Engineering Intern @ Unimed Joinville
-
-Future → Data Engineer
