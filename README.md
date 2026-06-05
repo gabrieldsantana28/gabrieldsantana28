@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 Software Engineering Student at Católica SC
 
@@ -68,3 +68,42 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square"/>
 
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gabrieldsantana28&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldsantana28&bg_color=ffffff00&color=00995D&line=00C16E&point=00995D&hide_border=true"/>
+
+</div>
+
+---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Building%20Data%20With%20Purpose&fontColor=FFFFFF&fontSize=34&color=0:006B3F,50:00995D,100:00C16E"
+  />
+</p>
+
