@@ -26,8 +26,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-00995D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/gabrieldsantana28">
     <img src="https://img.shields.io/badge/GitHub-004D2B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/gabrielldsantana">
+    <img src="https://img.shields.io/badge/Instagram-00995D?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
